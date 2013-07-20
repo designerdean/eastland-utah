@@ -236,6 +236,16 @@ footer {
 /* =MEDIA QUERIES
 ----------------------------------------------- */
 
+/* Smartphones (portrait) */
+@media only screen and (max-width : 800px) {
+	
+	#featured img {
+		max-width: 100%;
+		padding: 0.8em;
+	}
+
+}
+
 /* Smartphones (portrait and landscape) */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
