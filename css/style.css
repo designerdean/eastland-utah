@@ -67,7 +67,7 @@ h5 {
 ----------------------------------------------- */
 
 p {
-	margin: 0;
+	margin: 0 0 1em 0;
 }
 
 ul, ol {
@@ -189,8 +189,8 @@ header img {
 		font-weight: bold;
 	}
 	
-	#featured > a,
-	#featured > a:visited {
+	.links > a,
+	.links > a:visited {
 		color: #34a23d;
 		display: block;
 		font-weight: bold;
